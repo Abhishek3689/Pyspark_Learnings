@@ -1,1 +1,3 @@
 pyspark
+numpy
+spark-nlp
